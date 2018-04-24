@@ -1,16 +1,9 @@
 ﻿MAD Torrent
 ===========
 
-Пример реализации битторрент-клиента на языке Delphi. Это очень старая версия, от которой был сделан форк, в процессе доработок которого был реализован Lime-torrent. Просто эту версию не жалко в публичный доступ выбросить.
+An example implementation of a BitTorrent client in Delphi language. 
 
-Среда разработки
-----------------
+Development Environment
+-----------------------
 
-Embarcadero RAD Studio XE* (Delphi)
-
-Рекомендации к оформлению кода
-------------------------------
-
-http://wiki.delphi-jedi.org/index.php?title=Style_Guide
-
-
+Embarcadero RAD Studio XE10 (Delphi)
